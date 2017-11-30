@@ -6,11 +6,11 @@
         <Extension Name="__GeneratedServiceType__" GeneratedId="c2ea5fa5-4088-4424-b0fd-7621d3fab463|Persisted">
           <GeneratedNames xmlns="http://schemas.microsoft.com/2015/03/fabact-no-schema">
             <DefaultService Name="StudentActorService" />
-            <ServiceEndpoint Name="StudentActorServiceEndpoint" />
             <ReplicatorEndpoint Name="StudentActorServiceReplicatorEndpoint" />
             <ReplicatorConfigSection Name="StudentActorServiceReplicatorConfig" />
             <ReplicatorSecurityConfigSection Name="StudentActorServiceReplicatorSecurityConfig" />
             <StoreConfigSection Name="StudentActorServiceLocalStoreConfig" />
+            <ServiceEndpoint Name="StudentActorServiceEndpoint" />
           </GeneratedNames>
         </Extension>
       </Extensions>
